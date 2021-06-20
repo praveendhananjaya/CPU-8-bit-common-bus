@@ -1,6 +1,7 @@
 # CPU-8-bit-common-bus (SAP-1 Processor Architecture) 
 
-A simple 8-bit micro-processor using mostly discrete logic chips.
+A simple 8-bit micro-processor using mostly discrete logic chips. The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocessor. The SAP-1 design contains the basic necessities for a functional Microprocessor. 
+
 
 ![alt text](https://github.com/praveendhananjaya/CPU-8-bit-common-bus/blob/main/doc/test.gif?raw=true)
 
